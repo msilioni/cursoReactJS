@@ -1,0 +1,41 @@
+.contenedor {
+    border: black 1px solid;
+}
+
+.item {
+    width: 150px;
+    height: 150px;
+    border: black 1px solid;
+    color: white;
+    font-size: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.azul {
+    background: #0000FF;
+}
+
+.verde {
+    background: #00FF00;
+}
+
+.rojo {
+    background: #FF0000;
+}
+
+.ejdos {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
+
+.ejtres {
+    display: flex;
+    justify-content: space-between;
+
+}
