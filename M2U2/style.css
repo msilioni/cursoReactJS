@@ -26,6 +26,12 @@
     background: #FF0000;
 }
 
+.ejuno {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
 .ejdos {
     display: flex;
     flex-direction: row-reverse;
